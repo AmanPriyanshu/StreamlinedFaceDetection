@@ -3,6 +3,12 @@ The project is meant to be used for simple streamlined implementations during co
 
 ## Installation:
 
+Terminal:
+
+`git clone https://github.com/AmanPriyanshu/StreamlinedFaceDetection.git`
+
+On Notebooks:
+
 ```py
 !git clone https://github.com/AmanPriyanshu/StreamlinedFaceDetection.git
 ```
